@@ -1,4 +1,4 @@
-# gemini-ai
+# langchain-ai
 
-![image](https://github.com/user-attachments/assets/3a48ea0b-1a04-4294-9878-25501b14dc92)
+![image](https://github.com/user-attachments/assets/4cf613d3-cf73-47b3-a603-dcd0fa48060a)
 
