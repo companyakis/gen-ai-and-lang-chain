@@ -1,4 +1,5 @@
-# langchain-ai
+# gen-ai
 
-![image](https://github.com/user-attachments/assets/4cf613d3-cf73-47b3-a603-dcd0fa48060a)
+![image](https://github.com/user-attachments/assets/3deb66bf-1573-4237-a4d5-d4f44b952699)
+
 
