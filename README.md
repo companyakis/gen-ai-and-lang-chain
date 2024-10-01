@@ -1,4 +1,4 @@
-# lang-chain
+# gen-ai & lang-chain
 
 
 
