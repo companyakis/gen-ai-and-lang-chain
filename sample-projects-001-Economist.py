@@ -16,7 +16,7 @@ completion = client.chat.completions.create(
     ]
 )
 
-print(completion.choices[0].message)
+print(completion.choices[0].message.content) # .message / .message.content
 
 # ChatCompletionMessage(content='Increase in prices, reducing purchasing power of money.', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)
 
